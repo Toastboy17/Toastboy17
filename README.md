@@ -19,7 +19,7 @@ Also building **Budgetly**, a Swiss fintech app for Gen Z.
 ```txt
 const aidan = {
   role: "Founder & CEO @ Arca",
-  building: ["Arca", "Budgetly"],
+  building: ["Arca"],
   focus: "practical agents that don't surprise people",
   based: "Zürich, Switzerland",
 };
@@ -30,7 +30,6 @@ const aidan = {
 ### 🚀 Currently
 
 - 🛠️ Shipping **Arca** — confidence-gated agent for the busywork between tools
-- 💸 Building **Budgetly** — Swiss fintech for Gen Z
 - 🤖 Focused on practical agents that don't surprise people
 
 ---
